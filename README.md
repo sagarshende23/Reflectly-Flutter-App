@@ -19,7 +19,7 @@
 
 ## 📱 Gif #
 
-<img src="hhttps://im.ezgif.com/tmp/ezgif-1-ae5b7cf92fd5.gif" width = "1100"> 
+<img src="https://im.ezgif.com/tmp/ezgif-1-ae5b7cf92fd5.gif" width="1100">
 
 
 ## ⚙️ Built with Amazing Tools
