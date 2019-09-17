@@ -22,6 +22,14 @@
 <img src="https://im.ezgif.com/tmp/ezgif-1-ae5b7cf92fd5.gif" width="1100">
 
 
+## 📱 Screenshots #
+
+<p align="center">
+  <img src="https://itsallwidgets.com/screenshots/app-966.png" width="250" hspace="4">
+  <img src="https://itsallwidgets.com/screenshots/app-966-1.png" width="250" hspace="4">
+  
+</p>
+
 ## ⚙️ Built with Amazing Tools
 * [Flutter](https://flutter.dev/) - Beautiful native apps in record time.
 * [Android Studio](https://developer.android.com/studio/index.html/) - Tools for building Awesome apps on every type of Android device.
