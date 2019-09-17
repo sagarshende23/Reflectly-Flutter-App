@@ -19,7 +19,7 @@
 
 ## 📱 Gif #
 
-<img src="https://im.ezgif.com/tmp/ezgif-1-ae5b7cf92fd5.gif" width="1100">
+<img src="https://raw.githubusercontent.com/sagarshende23/reflectly-like-loginpage-flutter/master/gif.gif" width="1100">
 
 
 ## 📱 Screenshots #
