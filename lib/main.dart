@@ -61,7 +61,7 @@ class _MyAppState extends State<MyApp> with SingleTickerProviderStateMixin {
                         radius: 50.0,
                       )),
                 ),
-                DelayedAimation(
+                DelayedAnimation(
                   child: Text(
                     "Hi There",
                     style: TextStyle(
@@ -71,7 +71,7 @@ class _MyAppState extends State<MyApp> with SingleTickerProviderStateMixin {
                   ),
                   delay: delayedAmount + 1000,
                 ),
-                DelayedAimation(
+                DelayedAnimation(
                   child: Text(
                     "I'm Reflectly",
                     style: TextStyle(
@@ -84,14 +84,14 @@ class _MyAppState extends State<MyApp> with SingleTickerProviderStateMixin {
                 SizedBox(
                   height: 30.0,
                 ),
-                DelayedAimation(
+                DelayedAnimation(
                   child: Text(
                     "Your New Personal",
                     style: TextStyle(fontSize: 20.0, color: color),
                   ),
                   delay: delayedAmount + 3000,
                 ),
-                DelayedAimation(
+                DelayedAnimation(
                   child: Text(
                     "Journaling  companion",
                     style: TextStyle(fontSize: 20.0, color: color),
@@ -101,7 +101,7 @@ class _MyAppState extends State<MyApp> with SingleTickerProviderStateMixin {
                 SizedBox(
                   height: 100.0,
                 ),
-                DelayedAimation(
+                DelayedAnimation(
                 child: GestureDetector(
                   onTapDown: _onTapDown,
                   onTapUp: _onTapUp,
@@ -113,7 +113,7 @@ class _MyAppState extends State<MyApp> with SingleTickerProviderStateMixin {
                 delay: delayedAmount + 4000,
               ),
               SizedBox(height: 50.0,),
-                DelayedAimation(
+                DelayedAnimation(
                   child: Text(
                     "I Already have An Account".toUpperCase(),
                     style: TextStyle(
