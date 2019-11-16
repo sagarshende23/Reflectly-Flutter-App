@@ -2,17 +2,17 @@ import 'dart:async';
 
 import 'package:flutter/material.dart';
 
-class DelayedAimation extends StatefulWidget {
+class DelayedAnimation extends StatefulWidget {
   final Widget child;
   final int delay;
 
-  DelayedAimation({@required this.child, this.delay});
+  DelayedAnimation({@required this.child, this.delay});
 
   @override
-  _DelayedAimationState createState() => _DelayedAimationState();
+  _DelayedAnimationState createState() => _DelayedAnimationState();
 }
 
-class _DelayedAimationState extends State<DelayedAimation>
+class _DelayedAnimationState extends State<DelayedAnimation>
     with TickerProviderStateMixin {
   AnimationController _controller;
   Animation<Offset> _animOffset;
