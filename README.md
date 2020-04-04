@@ -77,15 +77,15 @@ If you like my project, "Star" in the corresponding project right corner, please
 * **[Donate $40](https://www.paypal.me/alltechsavvy/USD40)**: I want to learn more let's connect, Dinner is on me!
 * **[Donate $45](https://www.paypal.me/alltechsavvy/USD45)**: Many many thanks for the flutter project in dart language.
 * **[Donate $50](https://www.paypal.me/alltechsavvy/USD50)**: Thanks for working on Firebase Google Sign in
-* **[Donate $60](https://www.paypal.me/alltechsavvy/USD60)**: Let me buy u some Storage Server, about say 100 GB!
-* **[Donate $70](https://www.paypal.me/alltechsavvy/USD70)**: here's some bugs for Domain Name with SSL, Storage Server(150 GB)!
-* **[Donate $80](https://www.paypal.me/alltechsavvy/USD80)**: here's some bugs for Domain Name with SSL, Storage Server(150 GB), Lights billings!
-* **[Donate $90](https://www.paypal.me/alltechsavvy/USD90)**: here's some bugs for Domain Name with SSL, Storage Server(150 GB), Lights & Internet billings!
+* **[Donate $60](https://www.paypal.me/alltechsavvy/USD60)**: Let me buy you some Storage Server, about say 100 GB!
+* **[Donate $70](https://www.paypal.me/alltechsavvy/USD70)**: here's some bucks for Domain Name with SSL, Storage Server(150 GB)!
+* **[Donate $80](https://www.paypal.me/alltechsavvy/USD80)**: here's some bucks for Domain Name with SSL, Storage Server(150 GB), Lights billings!
+* **[Donate $90](https://www.paypal.me/alltechsavvy/USD90)**: here's some bucks for Domain Name with SSL, Storage Server(150 GB), Lights & Internet billings!
 * **[Donate $100](https://www.paypal.me/alltechsavvy/USD100)**: Thank's for creating the best  code, here's a 2TB HDD for your Storage Server is on me!
-* **[Donate $299](https://www.paypal.me/alltechsavvy/USD299)**: Thank's buddy for the awesome Simple Calculator App developed, buy Apple TV 4K for yourself!
-* **[Donate $799](https://www.paypal.me/alltechsavvy/USD799)**: Thank's buddy for the awesome Simple Calculator App developed, buy Apple Watch for yourself!
-* **[Donate $1500](https://www.paypal.me/alltechsavvy/USD1500)**: Thank's buddy for the awesome Simple Calculator App developed, buy Apple iPhone for yourself!
-* **[Donate $2000](https://www.paypal.me/alltechsavvy/USD2000)**: Thank's buddy for the awesome Simple Calculator App developed, buy Apple iPad for yourself!
-* **[Donate $2500](https://www.paypal.me/alltechsavvy/USD2500)**: Thank's buddy for the awesome Simple Calculator App developed, buy Apple Mac Mini & Storage Server for yourself!
-* **[Donate $3000](https://www.paypal.me/alltechsavvy/USD3000)**: Thank's buddy for the awesome Simple Calculator App developed, buy Apple MacBook Pro for yourself!
-* **[Donate $7000](https://www.paypal.me/alltechsavvy/USD7000)**: Thank's buddy for the awesome Simple Calculator App developed, buy Apple iMac Pro 5K for yourself!
+* **[Donate $299](https://www.paypal.me/alltechsavvy/USD299)**: Thank's buddy for the awesome UI you developed, buy Apple TV 4K for yourself!
+* **[Donate $799](https://www.paypal.me/alltechsavvy/USD799)**: Thank's buddy for the awesome UI you developed, buy Apple Watch for yourself!
+* **[Donate $1500](https://www.paypal.me/alltechsavvy/USD1500)**: Thank's buddy for the awesome UI you developed, buy Apple iPhone for yourself!
+* **[Donate $2000](https://www.paypal.me/alltechsavvy/USD2000)**: Thank's buddy for the awesome UI you developed, buy Apple iPad for yourself!
+* **[Donate $2500](https://www.paypal.me/alltechsavvy/USD2500)**: Thank's buddy for the awesome UI you developed, buy Apple Mac Mini & Storage Server for yourself!
+* **[Donate $3000](https://www.paypal.me/alltechsavvy/USD3000)**: Thank's buddy for the awesome UI you developed, buy Apple MacBook Pro for yourself!
+* **[Donate $7000](https://www.paypal.me/alltechsavvy/USD7000)**: Thank's buddy for the awesome UI you developed, buy Apple iMac Pro 5K for yourself!
