@@ -50,7 +50,7 @@ All Flutter Tutorials plus additional Code and shorter posts can be found on the
 
 
 ## 🤝 Show Some Support #
-If you liked the app give this repo a ⭐️ 
+If you found this project useful, then please consider giving it a ⭐️ on Github and sharing it with your friends.
 
 
 ## 🐞 Bugs/Requests #
