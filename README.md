@@ -64,14 +64,27 @@ If you encounter any problems feel free to open an issue. If you feel the librar
 
 <img width="400" alt="inceptive-donate_artboard_2_2x_2x" src="https://user-images.githubusercontent.com/43273993/64881998-ca9a2f80-d679-11e9-98ec-e4f0d5470dbd.png">
 
-If you like my project, "Star" in the corresponding project right corner, please. Your support is my biggest encouragement! ^^ You can also scan the qr code below or Donate to this project, donation to Author.
-
-<img src="https://github.com/sagarshende23/Simple_calculator_flutter/blob/master/Donation%20Page.jpg">
-
 **Paypal**
+
+> If you found this project helpful or you learned something from the source code and want to thank me, consider buying me a cup of :coffee:
+>
+> - [PayPal](https://www.paypal.me/webaddicted/)
+
+<p align="center">
+   
+[<img src="https://i.imgur.com/1Xiu9b4.png" />](https://www.paypal.me/alltechsavvy/)
+
+</p>
 
 **For All Developers**
 * **[Donate $5](https://www.paypal.me/alltechsavvy/USD5)**: Thank's for creating this project, here's a coffee or juice or beer for you!
 * **[Donate $10](https://www.paypal.me/alltechsavvy/USD10)**: Wow, I am stunned. Let me take you to the movies.
 * **[Donate $15](https://www.paypal.me/alltechsavvy/USD15)**: I really appreciate your work, let's grab some lunch!
 * **[Donate $20](https://www.paypal.me/alltechsavvy/USD20)**: That's some awesome stuff you did right there, Pizza/Burger is on me!
+
+
+If you like my project, "Star" in the corresponding project right corner, please. Your support is my biggest encouragement! ^^ You can also scan the qr code below or Donate to this project, donation to Author.
+
+<img src="https://github.com/sagarshende23/Simple_calculator_flutter/blob/master/Donation%20Page.jpg">
+
+
