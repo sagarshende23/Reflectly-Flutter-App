@@ -52,8 +52,9 @@ All Flutter Tutorials plus additional Code and shorter posts can be found on the
 * [Visual Studio Code](https://code.visualstudio.com/) - Code editing. Redefined.
 
 
-## 🤝 Show Some Support #
-If you found this project useful, then please consider giving it a ⭐️ on Github and sharing it with your friends.
+### :heart: Found this project useful?
+
+If you found this project useful, then please consider giving it a :star: on Github and follow me on GitHub.
 
 
 ## 🐞 Bugs/Requests #
