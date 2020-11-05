@@ -68,7 +68,7 @@ If you encounter any problems feel free to open an issue. If you feel the librar
 
 > If you found this project helpful or you learned something from the source code and want to thank me, consider buying me a cup of :coffee:
 >
-> - [PayPal](https://www.paypal.me/webaddicted/)
+> - [PayPal](https://www.paypal.me/alltechsavvy/)
 
 <p align="center">
    
